@@ -58,8 +58,8 @@ modules:
             sources:
               - type: git
                 url: https://github.com/DanBloomberg/leptonica.git
-                tag: 1.82.0
-                commit: f4138265b390f1921b9891d6669674d3157887d8
+                tag: 1.83.0
+                commit: 97b82b09ea2caeb203df4abeb1877eda661e6bfe
                 x-checker-data:
                   type: git
 

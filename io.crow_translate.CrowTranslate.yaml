@@ -30,8 +30,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/crow-translate/crow-translate.git
-        tag: 2.10.3
-        commit: 69fd99d5c4c9ec6eaf227929d606c9891a5b0b30
+        tag: 2.10.6
+        commit: 840d2e32a06e8a8890bc5ccaef49f50960439e90
         x-checker-data:
           type: git
     modules:
@@ -45,8 +45,8 @@ modules:
         sources:
           - type: git
             url: https://github.com/tesseract-ocr/tesseract.git
-            tag: 5.3.0
-            commit: 080da83cc51c4ef8b324a7e03146fe0bd7e0944b
+            tag: 5.3.2
+            commit: 489f101c7e2276c00490f3ab70e9e7926fc6b481
             x-checker-data:
               type: git
         modules:

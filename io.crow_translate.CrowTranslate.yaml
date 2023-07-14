@@ -49,6 +49,9 @@ modules:
             commit: 489f101c7e2276c00490f3ab70e9e7926fc6b481
             x-checker-data:
               type: git
+          - type: patch
+            paths:
+              - patches/tesseract/tesseract_neon.patch
         modules:
           - name: leptonica
             buildsystem: cmake-ninja

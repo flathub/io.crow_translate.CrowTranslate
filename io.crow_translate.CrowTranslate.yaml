@@ -30,8 +30,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/crow-translate/crow-translate.git
-        tag: 2.10.8
-        commit: fd02ef6244364d46e4f9bced1b6a97a49599aa6d
+        tag: 2.10.10
+        commit: a3443aef9e5662a53d824a048a82debd36cc2391
         x-checker-data:
           type: git
     modules:

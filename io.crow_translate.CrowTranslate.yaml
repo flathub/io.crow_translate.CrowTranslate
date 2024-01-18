@@ -30,8 +30,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/crow-translate/crow-translate.git
-        tag: 2.11.0
-        commit: 9c708a550655f889ff37f4aa5681eb16712623cf
+        tag: 2.11.1
+        commit: 7113ff01a994584ed0a3ec557fc3a694fcb06b63
         x-checker-data:
           type: git
     modules:
@@ -45,8 +45,8 @@ modules:
         sources:
           - type: git
             url: https://github.com/tesseract-ocr/tesseract.git
-            tag: 5.3.3
-            commit: e082522c248d3121e466959a8ba4fd4f7ad1a525
+            tag: 5.3.4
+            commit: 8ee020e14cf5be4e3f0e9beb09b6b050a1871854
             x-checker-data:
               type: git
           - type: patch
@@ -61,8 +61,8 @@ modules:
             sources:
               - type: git
                 url: https://github.com/DanBloomberg/leptonica.git
-                tag: 1.83.1
-                commit: b667978e86c4bf74f7fdd75f833127d2de327550
+                tag: 1.84.1
+                commit: 7e803e73511fbd320f01314c141d35d2b8491dde
                 x-checker-data:
                   type: git
 
